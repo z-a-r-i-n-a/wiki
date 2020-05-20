@@ -11,7 +11,8 @@ MOCKSERVER_HOST MOCKSERVER_PORT
 you can also create a file named .env on the root folder of the project containing some like this: 
 
 MOCKSERVER_HOST=localhost MOCKSERVER_PORT=1080 
-
+ 
+[Preapproval Flow](/uploads/preapproval-flow.pdf "Preapproval Flow")
 
 
 

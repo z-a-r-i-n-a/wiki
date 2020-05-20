@@ -1,6 +1,3 @@
-<!-- TITLE: Test Page -->
-<!-- SUBTITLE: A quick summary of Test Page -->
-
 ## MockServer 
 
 MockServer (https://www.mock-server.com/) has been set up to mock several service calls, such as Decisioning Service and Finstats Transactions Service. 
@@ -14,6 +11,9 @@ MOCKSERVER_HOST MOCKSERVER_PORT
 you can also create a file named .env on the root folder of the project containing some like this: 
 
 MOCKSERVER_HOST=localhost MOCKSERVER_PORT=1080 
+
+
+
 
 
 

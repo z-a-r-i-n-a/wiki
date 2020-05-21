@@ -1,4 +1,4 @@
-<!-- TITLE: Subsection -->
+<!-- TITLE: Subsection 1-->
 <!-- SUBTITLE: A quick summary of Subsection -->
 
 # Subsection 1
